@@ -4,6 +4,9 @@
 
 > **“DESENVOLVIMENTO DE UM JOGO COM UTILIZAÇÃO DE INTERFACE GRÁFICA”**
 
+## [Vídeo de demonstração no YouTube](https://www.youtube.com/watch?v=rSltKWCBf48&t=13s&ab_channel=ChinnonSantos)
+[![capa-video-jogo-certo](https://user-images.githubusercontent.com/3258293/209562285-e5a6ee7d-8d6f-46bf-8fcd-be299a0b8e8e.jpg)](https://www.youtube.com/watch?v=rSltKWCBf48&t=13s&ab_channel=ChinnonSantos)
+
 ## Sobre o jogo
 
 O Jogo é bem simples, com intuito somente de testar conhecimentos adquiridos no semestre estudado, foram dedicadas poucas horas de programação, porém o resultado e satisfatório devido a quantidade mínima de recursos e tecnologia necessárias para desenvolvimento.

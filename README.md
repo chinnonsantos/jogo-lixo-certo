@@ -5,6 +5,7 @@
 > **“DESENVOLVIMENTO DE UM JOGO COM UTILIZAÇÃO DE INTERFACE GRÁFICA”**
 
 ## [Vídeo de demonstração no YouTube](https://www.youtube.com/watch?v=rSltKWCBf48&t=13s&ab_channel=ChinnonSantos)
+
 [![capa-video-jogo-certo](https://user-images.githubusercontent.com/3258293/209562285-e5a6ee7d-8d6f-46bf-8fcd-be299a0b8e8e.jpg)](https://www.youtube.com/watch?v=rSltKWCBf48&t=13s&ab_channel=ChinnonSantos)
 
 ## Sobre o jogo
@@ -25,6 +26,10 @@ Magdiel Alves de Oliveira - RA: B4707G-0.
 Foi disponibilizado nesse repositório o código fonte original do jogo criado em 11/2013, sem as configurações necessárias para que seja possível o re-build do projeto.
 
 Naquela época o objetivo não era compartilhar o código fonte na internet (eu também não tinha conhecimento de GIT), mas devido ao sucesso que o vídeo do jogo teve no YouTube com outros alunos de CC da UNIP, resolvi compartilhar o `.JAR` por link e hoje (quase 10 anos depois), estou disponibilizando o código fonte completo (.class, imgs e áudios) no GitHub, incluindo o material acadêmico em PDF.
+
+O binário (executável) do jogo pode se encontrado no diretório [`binary/jogo-aps-4-semestre.jar`](binary/jogo-aps-4-semestre.jar).
+
+> Necessário ter a [JVM (Java Virtual Machine)](https://www.java.com/pt-BR/download/manual.jsp) instalada no computador para conseguir executar o arquivo `.JAR`!
 
 O código fonte pode ser encontrado no diretório [`source/*`](/source/) do repositório.
 
